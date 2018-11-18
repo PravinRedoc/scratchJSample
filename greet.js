@@ -38,7 +38,7 @@
         var self = this;
         self.firstname=firstname || '';
         self.lastname=lastname || '';
-        self.language=language || 'kannada';     
+        self.language=language || 'kannada  ';     
 
     }
     greet.init.prototype= greet.prototype;
